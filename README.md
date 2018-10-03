@@ -1,6 +1,6 @@
 ## Homework Assignment #3 of Zeid Hamadeh
 
-You can find a link to the [Rmd](https://github.com/STAT545-UBC-students/hw03-zhamadeh/blob/master/hw03-zhamadeh.Rmd) file and the [Md]() file
+You can find a link to the [Rmd](https://github.com/STAT545-UBC-students/hw03-zhamadeh/blob/master/hw03-zhamadeh.Rmd) file and the [Md](https://github.com/STAT545-UBC-students/hw03-zhamadeh/blob/master/hw03-zhamadeh.md) file
 
 ## Overview of Tasks for hw03
 
