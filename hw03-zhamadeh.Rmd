@@ -1,6 +1,6 @@
 ---
 title: "Hw03-Data-Explorer"
-output: html_document
+output: github_document
 ---
 ## Overview of Tasks for hw03
 
